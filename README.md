@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=I%C2%B4m+Paul+Espinoza;Full-Stack+Developer;I+like+to+learn+new+technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&width=1000&lines=I%C2%B4m+Paul+Espinoza;Full-Stack+Developer;I+like+to+learn+new+technologies)](https://git.io/typing-svg)
 
 <img src="https://i.pinimg.com/originals/c9/9e/35/c99e353f761d318322c853c03ebcf21b.gif" alt="gitportada"/>
 
